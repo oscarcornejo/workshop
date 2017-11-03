@@ -1,1 +1,1 @@
-Yo, oscar, lo modifiqué
+Yo lo modifiqué
