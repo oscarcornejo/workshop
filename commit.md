@@ -1,1 +1,2 @@
-j
+Se cambia J a X
+X
